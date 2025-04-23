@@ -10,11 +10,11 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import hw4.maze.Cell;
-import hw4.maze.CellComponents;
-import hw4.maze.Grid;
-import hw4.maze.Row;
-import hw4.player.Player;
+import hw4.maze1.Cell;
+import hw4.maze1.CellComponents;
+import hw4.maze1.Grid;
+import hw4.maze1.Row;
+import hw4.player1.Player;
 
 class PlayerTest {
 	
